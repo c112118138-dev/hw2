@@ -14,4 +14,4 @@
 
 ![專案甘特圖](PERTCPM.png)
 
-![專案甘特圖](gantt.png)
+![PERT/CPM](PERTCPM.png)
